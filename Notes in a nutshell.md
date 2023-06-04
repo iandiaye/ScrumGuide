@@ -1,3 +1,4 @@
+#My Learning Notes
 Scrum Team: 
     - Product owner 
     - Developers 
@@ -14,3 +15,5 @@ Events:
     - Sprint Review
     - Sprint Retrospective
     - Sprint (itself)
+
+    
